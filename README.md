@@ -1,5 +1,5 @@
 # C$50 FINANCE APP
-#### Video Demo:  <URL HERE>
+#### Video Demo:  [<URL HERE>](https://www.youtube.com/watch?v=Aq5WXmQQooo)
 #### Description: C$50 Finance
 C$50 Finance is a Flask web application for managing a simulated stock portfolio. Users can create an account, check stock quotes, buy and sell shares, review their transaction history, and change their password. The application tracks each user's cash balance and calculates the current value of their holdings using stock quote data.
 Features
